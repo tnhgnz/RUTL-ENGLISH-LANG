@@ -7,6 +7,7 @@ Repository: [github.com/tnhgnz/RUTL-ENGLISH-LANG](https://github.com/tnhgnz/RUTL
 ---
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e482d65e-7c33-4fcb-98c3-4606555937cb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30cbf1f8-8162-4cae-a977-b3f0af1ae3a6" />
 
 ## Русский
 
