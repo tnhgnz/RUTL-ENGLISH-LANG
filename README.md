@@ -14,6 +14,7 @@ Repository: [github.com/tnhgnz/RUTL-ENGLISH-LANG](https://github.com/tnhgnz/RUTL
 ### О проекте
 
 Патч подменяет локализацию так, чтобы в клиенте отображался **английский** текст при выборе **корейского** языка в настройках игры.
+Сделано 80% Перевода! 
 
 ### Ручная установка
 
@@ -66,6 +67,7 @@ Repository: [github.com/tnhgnz/RUTL-ENGLISH-LANG](https://github.com/tnhgnz/RUTL
 ### About
 
 This patch replaces packaged localization so the client shows **English** UI text while **Korean** is selected in the game language settings.
+80% of the translation is done!
 
 ### Manual install
 
