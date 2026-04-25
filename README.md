@@ -18,7 +18,7 @@ Repository: [github.com/tnhgnz/RUTL-ENGLISH-LANG](https://github.com/tnhgnz/RUTL
    `Throne and Liberty\TL\Content`  
    (полный путь зависит от лаунчера: VK Play, Astrum Play)
 
-2. **Сделай резервную копию** оригинальных файлов локализации (имена могут совпадать с примером ниже):
+2. **Сделай резервную копию** оригинальных файлов локализации :
    - `TL\Content\Paks\pakchunk-Localization-ko.pak`
    - `TL\Content\Paks\pakchunk-Localization-ko.sig`  
 
@@ -70,7 +70,7 @@ This patch replaces packaged localization so the client shows **English** UI tex
    `Throne and Liberty\TL\Content`  
    (exact root depends on your launcher: VK Play, Astrum Play)
 
-2. **Back up** the original Korean localization files (names may match the example):
+2. **Back up** the original Korean localization files :
    - `TL\Content\Paks\pakchunk-Localization-ko.pak`
    - `TL\Content\Paks\pakchunk-Localization-ko.sig`  
 
