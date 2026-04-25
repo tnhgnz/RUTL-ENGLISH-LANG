@@ -33,7 +33,7 @@ Repository: [github.com/tnhgnz/RUTL-ENGLISH-LANG](https://github.com/tnhgnz/RUTL
 
 ### Автоматическая установка
 
-Можно поставить патч через компаньон **[TL-Vanced](https://github.com/tnhgnz/TL-VANCED)**.
+Можно поставить патч через мой софт **[TL-Vanced](https://github.com/tnhgnz/TL-VANCED)**.
 
 ### Файлы перевода
 
@@ -85,7 +85,7 @@ This patch replaces packaged localization so the client shows **English** UI tex
 
 ### Automatic install
 
-You can apply the localization via the companion app **[TL-Vanced](https://github.com/tnhgnz/TL-VANCED)**.
+You can apply the localization via the my software **[TL-Vanced](https://github.com/tnhgnz/TL-VANCED)**.
 
 ### Translation data
 
